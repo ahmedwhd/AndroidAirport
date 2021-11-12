@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Cycle/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15416666666666667" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Cycle/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Cycle/app/src/main/res/drawable/ic_search.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Cycle/app/src/main/res/drawable/ic_wind_svgrepo_com.xml" value="0.1453125" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Cycle/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Cycle/app/src/main/res/layout/aero.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Cycle/app/src/main/res/layout/airpoertselection.xml" value="0.13125" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Cycle/app/src/main/res/layout/airportselection.xml" value="0.25470332850940663" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Cycle/app/src/main/res/layout/autor.xml" value="0.3198324022346369" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Cycle/app/src/main/res/layout/displayInfos.xml" value="0.19029850746268656" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Cycle/app/src/main/res/layout/display_infos.xml" value="0.536" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Cycle/app/src/main/res/layout/map_view.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Cycle/app/src/main/res/layout/taf-layout.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Cycle/app/src/main/res/layout/taf_display.xml" value="0.4" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Cycle/app/src/main/res/layout/taf_layout.xml" value="0.4" />
+        <entry key="..\:/Users/ahmed/AndroidStudioProjects/Cycle/app/src/main/res/menu/menu.xml" value="0.13020833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

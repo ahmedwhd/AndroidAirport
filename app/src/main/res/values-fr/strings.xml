@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chercher Aeroport</string>
+    <string name="open">Ouvrir</string>
+    <string name="search_title">Chercher ICAO</string>
+    <string name="search">Cherhcer</string>
+    <string name="wind">Vent</string>
+    <string name="temperature">Tempérarure</string>
+    <string name="elevation">"Elévation "</string>
+    <string name="barometer">Baromètre</string>
+    <string name="clouds">Nuages</string>
+    <string name="humidity">"Humidité "</string>
+    <string name="visibility">Visibilité</string>
+    <string name="weather">Meteo</string>
+    <string name="at">à</string>
+    <string name="retourner">retour</string>
+</resources>

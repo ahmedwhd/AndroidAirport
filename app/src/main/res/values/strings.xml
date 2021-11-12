@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Search Airport</string>
+    <string name="open">Open</string>
+    <string name="search_title">Search OACI</string>
+    <string name="search">Search</string>
+    <string name="wind">wind</string>
+    <string name="temperature">temperature</string>
+    <string name="elevation">Elevation</string>
+    <string name="barometer">Barometer</string>
+    <string name="clouds">Clouds</string>
+    <string name="humidity">Humidity</string>
+    <string name="visibility">Visibility</string>
+    <string name="weather">Weather</string>
+    <string name="at">at</string>
+    <string name="retourner">return</string>
+
+</resources>
